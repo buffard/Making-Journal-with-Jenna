@@ -1,0 +1,45 @@
+{
+  "entries": [
+    {
+      "title": "For User",
+      "content": "talke",
+      "date": "2018-11-30",
+      "mood": "yep",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "title": "Works",
+      "content": "Built this",
+      "date": "2018-11-12",
+      "mood": "hopeful",
+      "userId": 3,
+      "id": 6
+    },
+    {
+      "title": "Andy's House",
+      "content": "Its were we live now",
+      "date": "2018-11-11",
+      "mood": "flyin",
+      "userId": 3,
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "username": "buffard",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "username": "samuel",
+      "password": "1111",
+      "id": 2
+    },
+    {
+      "username": "john",
+      "password": "666",
+      "id": 3
+    }
+  ]
+}
